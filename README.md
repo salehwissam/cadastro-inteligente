@@ -18,7 +18,6 @@ Projeto de um formulário de cadastro com validação em tempo real desenvolvido
 - HTML5
 - CSS3
 - JavaScript
-- Git e GitHub
 
 ## 🎯 Objetivo
 
